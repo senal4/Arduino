@@ -4,7 +4,7 @@
         int mspeed_high=100; //Motor Speed High
         int mspeed_low=30; //Motor Speed Low
         #define reverse_speed 50
-        int slow_speed = 40;
+        int slow_speed = 41;
 
          int sm=0;
          int spm=180;
