@@ -1,7 +1,7 @@
 
         
         //----------------------------Speeds-----------------------//
-        int mspeed_high=99; //Motor Speed High
+        int mspeed_high=100; //Motor Speed High
         int mspeed_low=30; //Motor Speed Low
         #define reverse_speed 50
         int slow_speed = 41;
